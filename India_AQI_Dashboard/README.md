@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing **235,785 air quality records** acro
 ---
 
 ## 📊 Dashboard Preview
-*(Add your dashboard screenshot here)*
+![Dashboard Page 1](/image/dashboard_porject_3.png)
 
 ---
 
