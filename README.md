@@ -44,6 +44,21 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [➡️ **View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
 
+## 🌍 India AQI Dashboard (Project 3 - Environmental Analysis)
+
+[![India AQI Dashboard](./image/dashboard_project_3.png)](./India_AQI_Dashboard/README.md)
+
+**Key Power BI Skills Utilized:**
+- ⚙️ Power Query — Data Cleaning & Transformation
+- 🔢 KPI Cards with custom labels
+- 📊 Bar Chart with Top N filtering
+- 🍩 Donut Chart for status distribution
+- 📈 Line Chart for seasonal trend analysis
+- 🗺️ Filled Map for geospatial AQI visualization
+- 🎛️ Interactive Slicers & Cross-filtering
+
+[➡️ **View Full Project 3 Details (README)**](https://github.com/pradyumna800/Power-BI-Dashboards/blob/master/India_AQI_Dashboard/README.md)
+
 ---
 
 ## About This Portfolio
