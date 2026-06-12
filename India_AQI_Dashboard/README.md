@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing **235,785 air quality records** acro
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Page 1](/image/dashboard_porject_3.png)
+![India AQI Dashboard](../image/dashboard_project_3.png)
 
 ---
 
